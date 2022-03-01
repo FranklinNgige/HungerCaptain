@@ -91,11 +91,11 @@ WSGI_APPLICATION = 'config.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'd81p8l89vfgmdc',
-        'USER': 'nesvhkdysfyxsb',
+        'NAME': 'dfrvkfoad12h3t',
+        'USER': 'tsxohetktdoudh',
         'PORT': 5432,
-        'HOST': 'ec2-44-198-196-149.compute-1.amazonaws.com',
-        'PASSWORD': 'fa3e2fe0e91036d3175be0312d00c11ca9292baf1e85f401c413c61cf3f901a6',
+        'HOST': 'ec2-52-204-196-4.compute-1.amazonaws.com',
+        'PASSWORD': '2cdc083aeb2781fdf394e6303162c871be9ed667cd2adb9c127ff404827f1516',
     }
 }
 
@@ -156,9 +156,9 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 
 cloudinary.config(
-    cloud_name="djlnfxejk",
-    api_key="925574913183248",
-    api_secret="GpTrHVvLb2eC4CE_eaXntnm6nfY",
+    cloud_name="dt8t34ayd",
+    api_key="856455334792384",
+    api_secret="4RkcNrqXN5qG6a1oKIN5EdABYgI",
     secure=True
 )
 
