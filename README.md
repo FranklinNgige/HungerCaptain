@@ -1,7 +1,7 @@
 ## Live Demo
 **This App uses a Heroku free plan, so I am afraid that it takes time to load the pages.**
-Check out [FRONTEND LIVE DEMO](https://hungercaptain-frontend.herokuapp.com/) here!!
-Check out [API LIVE DEMO](https://hungercaptain-backend.herokuapp.com/) here!!
+Check out [FRONTEND LIVE DEMO](https://hunger-captain-frontend.herokuapp.com//) here!!
+Check out [API LIVE DEMO](https://hunger-captain-backend.herokuapp.com/) here!!
 ## Tech used
 ```
 * Frontend : React & Redux
