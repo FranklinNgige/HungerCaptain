@@ -10,7 +10,7 @@ Check out [API LIVE DEMO](https://hunger-captain-backend.herokuapp.com/) here!!
 ## How to Install
 1. Git Clone
 ```
-git clone git@github.com: https://github.com/Hayuo2/Hunger-s-Captain.git
+git clone git@github.com:
 ```
 2. Backend setting
 ```
